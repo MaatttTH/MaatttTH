@@ -13,7 +13,7 @@ Soy **Licenciado en Física** y actualmente candidato a **Magíster en Física**
 
 ## 🛠️ Tecnologías & Herramientas
 * **Lenguajes**: Python, SQL.
-* * **Análisis Estadístico**: SPSS, Excel.
+* **Análisis Estadístico**: SPSS, Excel.
 * **Ciencia de Datos**: Análisis de datos, visualización.
 
 ## ✨ Logros Recientes
