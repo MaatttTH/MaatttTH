@@ -17,11 +17,7 @@ Soy **Licenciado en Física** y actualmente candidato a **Magíster en Física**
 * **Ciencia de Datos**: Análisis de datos, visualización.
 
 ## ✨ Logros Recientes
-* ✅ **CS50 SQL**: Problem Set 1 (Packages, Please) completado con 100% de efectividad.
-* ✅ **CS50 SQL**: Problem Set 0 (Players) completado con 100% de efectividad.
-* ✅ **CS50 SQL**: Problem Set 0 (36 Views) completado con 100% de efectividad.
-* ✅ **CS50 SQL**: Problem Set 0 (Cyberchase) completado con 100% de efectividad.
-
+* ✅ **CS50: Introduction to SQL**: Curso completado sin certificación.
 ---
 > "La física no es solo lo que hacemos, es cómo vemos el mundo."
 
